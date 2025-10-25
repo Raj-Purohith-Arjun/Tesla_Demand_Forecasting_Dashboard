@@ -36,7 +36,7 @@ Tesla’s mission is to accelerate the world’s transition to sustainable energ
 - **Exponential Smoothing**: Industry standard for supply chain and robust to volatility, with minimal tuning needed
 - **SARIMAX**: Captures trend, seasonality, and calendar effects—state-of-the-art for production/time series analysis
 
-**We validated all models via walk-forward simulation, benchmarking KPI improvement by segment and scenario—exactly as a Tesla data science/ops team would evaluate a vendor or new system.**
+**Validated all models via walk-forward simulation, benchmarking KPI improvement by segment and scenario—exactly as a Tesla data science/ops team would evaluate a vendor or new system.**
 
 ---
 
@@ -96,5 +96,4 @@ Tesla’s mission is to accelerate the world’s transition to sustainable energ
 
 ---
 
-## Directory Structure
 
