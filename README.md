@@ -8,7 +8,7 @@ Develop a dynamic and interactive dashboard to provide Tesla’s demand planning
 ## Detailed Demo Video
 ![dashboard screenshot](data/dash.jpg)
 
-Demo Video Link: https://drive.google.com/file/d/11NQKvMFiW7sWVppT_Eivo3UbifJ5uVsQ/view?usp=sharing
+Demo Video Link: https://drive.google.com/file/d/1INgqyusu2Y0539PtL4s7Qh795TXvVdcL/view?usp=sharing
 
 ## Detailed Report
 [Check Detailed Report Here](docs/Tesla_Demand_Forecasting_Report.docx)
