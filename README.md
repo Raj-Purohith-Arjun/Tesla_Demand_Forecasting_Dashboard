@@ -6,7 +6,8 @@
 Develop a dynamic and interactive dashboard to provide Tesla’s demand planning team with actionable insights on forecast accuracy, business impact, and model performance. The goal is to support precise inventory planning, reduce excess inventory costs, and improve service levels through data-driven decisions.
 
 ## Detailed Demo Video : https://drive.google.com/file/d/11NQKvMFiW7sWVppT_Eivo3UbifJ5uVsQ/view?usp=sharing
-[![Demo Video](docs/dash.jpg)](https://drive.google.com/file/d/11NQKvMFiW7sWVppT_Eivo3UbifJ5uVsQ/view?usp=sharing)
+[![Demo Video](docs/dash.jpg)](https://drive.google.com/uc?export=download&id=11NQKvMFiW7sWVppT_Eivo3UbifJ5uVsQ)
+
 
 
 ## Approach
